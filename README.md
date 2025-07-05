@@ -2,7 +2,7 @@
 
 AskSeniors is a web platform designed to connect **college juniors with seniors** to ask questions, share placement experiences, and receive peer-to-peer guidance — all within a verified student community.
 
-🔗 **Live Site:** [Visit AskSeniors](https://tinyurl.com/GMGANESH)
+🔗 Live Site: [Visit AskSeniors](https://tinyurl.com/GMGANESH)
 
 ---
 
