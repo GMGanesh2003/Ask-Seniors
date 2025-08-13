@@ -40,7 +40,7 @@ AskSeniors helps students:
 | Area            | Technology Used        |
 |------------------|------------------------|
 | Frontend         | HTML, CSS, JavaScript |
-| Backend          | Java (Spring Boot)    |
+| Backend          | Firebase Firestore
 | Database         | MySQL / MongoDB       |
 | Authentication   | JWT / Firebase Auth   |
 | Deployment       | Render / Vercel / Netlify |
